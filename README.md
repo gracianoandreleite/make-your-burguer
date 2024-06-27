@@ -37,3 +37,7 @@ O **Make Your Burger** é um sistema web simples, orientado a objetos, que permi
    ```
 
 4. Importe o banco de dados que está na pasta `database/`.
+
+## Contato
+
+  Para mais informações, entre em contato comigo em juniorpc255@gmail.com.
