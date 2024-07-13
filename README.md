@@ -36,7 +36,7 @@ O **Make Your Burger** é um sistema web simples, orientado a objetos, que permi
    composer install
    ```
 
-4. Importe o banco de dados que está na pasta `database/`.
+4. Importe o banco de dados que está na pasta `base de dados/`.
 
 ## Contato
 
