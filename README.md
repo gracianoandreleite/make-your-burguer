@@ -29,14 +29,12 @@ O **Make Your Burger** é um sistema web simples, orientado a objetos, que permi
    git clone https://github.com/gracianoandreleite/make-your-burguer
    ```
 
-2. Navegue até a pasta `make_your_burguer/`.
-
-3. Instale as dependências com o Composer:
+2. Instale as dependências com o Composer:
    ```
    composer install
    ```
 
-4. Importe o banco de dados que está na pasta `base de dados/`.
+3. Importe o banco de dados que está na pasta `base de dados/`.
 
 ## Contato
 
